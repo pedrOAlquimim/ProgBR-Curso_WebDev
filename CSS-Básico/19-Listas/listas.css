@@ -1,0 +1,30 @@
+div{
+    font-weight: bold;
+    border-width: 2px;
+    border-style: solid;
+    background: yellow
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+li {
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 5px;
+    background: plum;
+    margin: 10px;
+}

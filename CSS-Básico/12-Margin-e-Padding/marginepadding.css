@@ -1,0 +1,11 @@
+.base {
+    height: 10px;
+    background: red;
+}
+
+.container {
+    background: blue;
+    color: #fff;
+    margin: 5px;
+    padding: 10px;
+}

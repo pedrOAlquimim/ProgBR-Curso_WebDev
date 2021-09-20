@@ -1,0 +1,48 @@
+.border {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #a52a2a;
+    border-radius: 5px;
+}
+
+.circulo {
+    background: #000;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.dotted {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: #a52a2a;
+    border-radius: 5px;
+}
+
+.dashed {
+    border-width: 5px;
+    border-style: dashed;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+.solid {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #a52a2a;
+    border-radius: 5px;
+}
+
+.none {
+    border-width: 5px;
+    border-style: none;
+    border-color: blue;
+    border-radius: 5px;
+}
+
+.hidden {
+    border-width: 5px;
+    border-style: hidden;
+    border-color: #a52a2a;
+    border-radius: 5px;
+}

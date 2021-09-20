@@ -1,0 +1,19 @@
+body {
+    background-image: url(/images/ceu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.paragrafo {
+    background-color: rgb(216, 103, 147);
+}
+.paragrafo2 {
+    color: #fff;
+    background-image: url(/images/crop.jpg);
+    background-attachment: fixed;
+}
+.paragrafo3 {
+    background-image: url(/images/passaro.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
