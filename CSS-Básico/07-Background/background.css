@@ -6,14 +6,17 @@ body {
 
 .paragrafo {
     background-color: rgb(216, 103, 147);
+    margin-bottom: 80px;
 }
 .paragrafo2 {
     color: #fff;
     background-image: url(/images/crop.jpg);
     background-attachment: fixed;
+    margin-bottom: 170px;
 }
 .paragrafo3 {
     background-image: url(/images/passaro.jpeg);
     background-repeat: no-repeat;
     background-position: center;
+    margin-bottom: 500px;
 }
