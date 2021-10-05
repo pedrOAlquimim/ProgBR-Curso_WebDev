@@ -32,3 +32,15 @@
 .image_div_text {
     text-align: center; /* Funciona o text-align:(center, left, right)*/
 }
+
+
+.borda {
+    width: 500px; height: 500px;
+    border: 2px solid;
+    margin: auto;
+}
+.quadrado {
+    width: 100px; height: 100px;
+    background: blue;
+    margin: auto;
+}
