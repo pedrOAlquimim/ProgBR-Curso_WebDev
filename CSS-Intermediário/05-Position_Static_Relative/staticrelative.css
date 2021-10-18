@@ -8,10 +8,10 @@
 
 .quad-red {
     background: #f00;
-    text-align: right;
 }
 .quad-blue {
     position: relative;
+    
     top: 20px;
     left: 20px;
     background: #00f;
