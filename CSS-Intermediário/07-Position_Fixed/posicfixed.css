@@ -1,0 +1,12 @@
+body {
+    margin-top: 5000px;
+}
+
+.circle {
+    background: blue;
+    border-radius: 50%;
+    width: 100px; height: 100px;
+    right: 15px; bottom: 15px;
+
+    position: fixed;
+}
