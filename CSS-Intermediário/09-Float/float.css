@@ -1,0 +1,22 @@
+p {
+    border: 2px solid black;
+    overflow: auto;
+}
+
+.quad {
+    width: 100px; height: 100px;
+    background: yellowgreen;
+    text-align: center;
+    font-size: 2em;
+    font-weight: 900;
+    margin-right: 20px;
+
+    float: left;
+}
+
+.images {
+    width: 170px;
+    margin-left: 20px;
+
+    float: right;
+}
