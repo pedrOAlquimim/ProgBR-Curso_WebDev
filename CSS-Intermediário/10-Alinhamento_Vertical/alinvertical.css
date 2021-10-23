@@ -1,0 +1,18 @@
+.card {
+    position: relative;
+    width: 400px; height: 200px;
+    border: 2px solid;
+    float: left;
+    text-align: center;
+}
+
+.c1 {
+    line-height: 170px;
+}
+
+.c2 {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    background: red;
+}
