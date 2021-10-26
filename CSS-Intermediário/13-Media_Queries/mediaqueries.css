@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    overflow: hidden;
+    margin: auto;
+    background: #5C57A4;
+    width: 80%;
+    font-size: 18px;
+    padding: 15px;
+
+}
+
+.logo {
+    float: left;
+
+}
+
+.menu {
+    list-style: none;
+    float: right;
+    margin: 0; padding: 0;
+}
+
+li {
+    float: right;
+    margin-left: 15px;
+}
+
+@media screen and (max-width: 450px) {
+    
+    .header {
+        width: 80%;
+        margin: auto;
+
+    }
+    .logo {
+        color: white;
+        float: none;
+        text-align: center;
+    }
+    .menu {
+        float: none;
+        text-align: center;
+        margin-top: 20px;
+        margin-right: 0px;
+    }
+    li {
+        float: none;
+        margin-bottom: 5px;
+        padding: 10px;
+        color: white;
+        border: 1px #000 solid;
+        margin-left: 0;
+    }
+}
