@@ -19,13 +19,13 @@ img {
     /* margin-top: 20px;
     margin-bottom: 20px; */
 }
-.p3 {
+.p3 { /* Inline não muda o margin-top e bottom */
     display: inline;
     background-color: burlywood;
     padding-top: 20px;
     padding-bottom: 20px;
     /* margin-top: 20px;
-    margin-bottom: 20px; */
+    /* margin-bottom: 20px; */
 }
 .p4 {
     display: inline-block;
