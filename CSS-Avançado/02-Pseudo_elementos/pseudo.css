@@ -1,0 +1,28 @@
+p::first-line {
+    color:red;
+
+}
+
+p::first-letter {
+    color: blue;
+}
+
+li {
+    list-style: none;
+}
+
+li::before {
+    content: "";
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-image: url(../../images/passaro.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+p::selection {
+    background-color: yellow;
+    color: red;
+}

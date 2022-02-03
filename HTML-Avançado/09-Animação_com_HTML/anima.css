@@ -1,0 +1,16 @@
+.tela {
+    background-color: bisque;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+}
+
+.quadrado {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
