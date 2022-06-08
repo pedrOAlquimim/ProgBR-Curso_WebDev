@@ -1,0 +1,28 @@
+.container {
+  display: grid;
+  color: #fff;
+
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+
+.r1 {
+  background-color: #f00;
+}
+.r2 {
+  background-color: #00f;
+}
+.r3 {
+  background-color: #0f0;
+}
+.r4 {
+  background-color: #f00;
+}
+
+.r5 {
+  background-color: #00f;
+}
+
+.r6 {
+  background-color: #0f0;
+}
